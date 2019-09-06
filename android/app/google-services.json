@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "881652771620",
+    "firebase_url": "https://animeflutter.firebaseio.com",
+    "project_id": "animeflutter",
+    "storage_bucket": "animeflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881652771620:android:bbb47390abc4442e",
+        "android_client_info": {
+          "package_name": "com.zenerato.animelist.animes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881652771620-baskamb6vutj834cocpc53b9142f3nka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zenerato.animelist.animes_app",
+            "certificate_hash": "1f4a6f8ba481137f5981bdbc599ba5d264e4d4ce"
+          }
+        },
+        {
+          "client_id": "881652771620-vutoungk2tc18iald1opa9k5hojichl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGZOznrSO1ylajWKD8UhIz1hoahRVapY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881652771620-vutoungk2tc18iald1opa9k5hojichl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881652771620:android:752a13a8442112db",
+        "android_client_info": {
+          "package_name": "com.zenerato.anireminder.reminder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881652771620-oh1oi3bvjr08d2ibsh65hl2m5b2mjc0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zenerato.anireminder.reminder_app",
+            "certificate_hash": "1f4a6f8ba481137f5981bdbc599ba5d264e4d4ce"
+          }
+        },
+        {
+          "client_id": "881652771620-vutoungk2tc18iald1opa9k5hojichl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGZOznrSO1ylajWKD8UhIz1hoahRVapY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881652771620-vutoungk2tc18iald1opa9k5hojichl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881652771620:android:e57d307057851aee",
+        "android_client_info": {
+          "package_name": "com.zenerato.otakulist.otakolist_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881652771620-nqnbt2pij1jh26q4nl4qcvmgslpmqq4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zenerato.otakulist.otakolist_app",
+            "certificate_hash": "f4112e5221f4d91d0082e3838cb62aab18930896"
+          }
+        },
+        {
+          "client_id": "881652771620-vutoungk2tc18iald1opa9k5hojichl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGZOznrSO1ylajWKD8UhIz1hoahRVapY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881652771620-vutoungk2tc18iald1opa9k5hojichl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881652771620:android:6ffde828ecfb5b56",
+        "android_client_info": {
+          "package_name": "com.zenerato.otakulist.otaku_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881652771620-upf1ld5765iae70h9ce360vk441e1nkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zenerato.otakulist.otaku_list",
+            "certificate_hash": "1f4a6f8ba481137f5981bdbc599ba5d264e4d4ce"
+          }
+        },
+        {
+          "client_id": "881652771620-vutoungk2tc18iald1opa9k5hojichl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGZOznrSO1ylajWKD8UhIz1hoahRVapY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881652771620-vutoungk2tc18iald1opa9k5hojichl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
